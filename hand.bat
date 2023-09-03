@@ -1,0 +1,1 @@
+mkdir C:\Users\yigitt\Desktop\RAT\testmk\ata
